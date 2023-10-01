@@ -11,7 +11,7 @@ namespace WatchFunctionsTests
         [Fact]
         public void TestWatchFunctionSuccess()
         {
-            var queryStringValue = "abc";
+            var queryStringValue = "abc"; //
             var request = new DefaultHttpRequest(new DefaultHttpContext())
             {
                 Query = new QueryCollection

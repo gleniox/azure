@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WatchFunctionsTests
-build_property.ProjectDir = C:\Users\nogueirags\Documents\src\gleniox\azure\ServerlessApplications\WatchPortalFunction\WatchFunctionsTests\
+build_property.ProjectDir = c:\Users\nogueirags\Documents\src\gleniox\azure\ServerlessApplications\WatchPortalFunction\WatchFunctionsTests\
